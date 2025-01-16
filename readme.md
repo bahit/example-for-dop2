@@ -1,4 +1,4 @@
-# Bahit was here xyz abc
+# Bahit was here abc
 - This is a list
 - another list
 ## This is a sub header
